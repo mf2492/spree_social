@@ -21,6 +21,8 @@ Gem::Specification.new do |s|
   s.add_dependency 'omniauth-facebook'
   s.add_dependency 'omniauth-github'
   s.add_dependency 'omniauth-google-oauth2'
+  s.add_dependency 'omniauth-linkedin'
+
 
   s.add_development_dependency 'capybara', '~> 1.1.3'
   s.add_development_dependency 'ffaker'
